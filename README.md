@@ -1,6 +1,8 @@
 # ESP8266-HomeKit-Temperature-Humidity-Sensor
 ESP8266 – HomeKit Temperature &amp; Humidity Sensor
 
+For More Information Visit http://www.studiopieters.nl/
+
 ![DHT11](https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Temperature-Humidity-Sensor/master/DHT11_bb.png
 )
 
